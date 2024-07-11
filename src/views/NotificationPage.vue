@@ -67,7 +67,7 @@
                 <div class="form-check form-switch custom-switch mb-4">
                         <label class="form-check-label text-white fs-5 ms-3" for="flexSwitchCheckBackupMaker">Backup Maker</label>
                         <input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckBackupMaker" >
-                        <p class="text-white ms-4">when your backup sent to your mail will get a successfull notification .</p>
+                        <p class="text-white ms-4">When Your Backup Sent To Your mail Will Get A Successfull Notification .</p>
                     </div>
                 <div class="form-check form-switch custom-switch mb-4">
                         <label class="form-check-label text-white fs-5 ms-3" for="flexSwitchCheckGotFreeMonth">Got Free Month </label>
