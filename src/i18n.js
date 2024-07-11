@@ -12,7 +12,7 @@ const messages = {
     loginButton: 'Log in',
     loginWithGoogle: 'Log in with Google',
     backToHomePage: 'Back to home page',
-    language: 'English',
+    language: 'اللغة العربية',
   },
   ar: {
     login: 'تسجيل الدخول',
@@ -24,7 +24,7 @@ const messages = {
     loginButton: 'تسجيل الدخول',
     loginWithGoogle: 'تسجيل الدخول باستخدام جوجل',
     backToHomePage: 'العودة إلى الصفحة الرئيسية',
-    language: 'االلغة العربية',
+    language: 'English',
   },
 };
 
