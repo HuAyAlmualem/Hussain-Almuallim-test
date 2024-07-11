@@ -48,7 +48,7 @@
                     <img src="@\assets\poeple.svg" alt="">
                     <button class="btn text-white" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample1" aria-expanded="false" aria-controls="collapseExample1">Hussain Almualem</button>
                     <div class="collapse" id="collapseExample1">
-                        <button @click="$router.push('Login')" class="btn text-white text-start">Log out</button>
+                        <button @click="$router.push('/')" class="btn text-white text-start">Log out</button>
                     </div>
                 </div>
                 

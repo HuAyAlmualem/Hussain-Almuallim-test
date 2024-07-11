@@ -40,7 +40,7 @@
                         <img class="me-2" src="@\assets\accounticon.svg" alt="">
                         <button class="btn " type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">Admin</button>
                         <div class="collapse" id="collapseExample">
-                            <button @click="$router.push('Login')" class="btn d-flex justify-content-start text-start">Log out</button>
+                            <button @click="$router.push('/')" class="btn d-flex justify-content-start text-start">Log out</button>
                         </div>
                     </div>
                 </div>
