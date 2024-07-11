@@ -29,7 +29,7 @@ const messages = {
 };
 
 const i18n = createI18n({
-  locale: 'en', // set locale to Arabic
+  locale: 'en', // set locale to english
   fallbackLocale: 'ar',
   messages,
 });
