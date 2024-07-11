@@ -13,13 +13,13 @@
                 
                 <form>
                     <p class="fs-5 fw-bold">Log In</p>
-                <p class="fw-light">don't have an account ? <a href="#sign up">Sign Up</a> </p>
+                <p class="fw-light">Don't Have An Account ? <a href="#sign up">Sign Up</a> </p>
                     <label for="email" >Email Address</label><br>
                     <input type="password" ><br>
                     <label for="password">Password</label><br>
                     <input type="text"><br>
                 </form>
-                <a href="#" class="d-flex justify-content-end " >forget password?</a><br>
+                <a href="#" class="d-flex justify-content-end " >Forget Password?</a><br>
                 <button @click="$router.push('Notification')" class="my-3 btn btn-warning" >Log in</button><br>
                 <button class="btn btn-outline-secondary"><img width="27" height="27" src="@\assets\google.svg" alt="Google Logo"> Log in with google</button><br>
                 <a href="#" class="noDecoration text-muted d-flex justify-content-center text-center"><img src="@\assets\arrow.svg" alt="arrow">Back to home page</a>
