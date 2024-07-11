@@ -16,7 +16,7 @@
                 <p class="fw-light">don't have an account ? <a href="#sign up">Sign Up</a> </p>
                     <label for="email" >Email Address</label><br>
                     <input type="password" ><br>
-                    <label for="password">Password.</label><br>
+                    <label for="password">Password</label><br>
                     <input type="text"><br>
                 </form>
                 <a href="#" class="d-flex justify-content-end " >forget password?</a><br>
