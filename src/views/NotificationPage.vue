@@ -22,7 +22,7 @@
                     <button class="btn text-white darkBg mb-1 w-100 text-start" type="button"><img class="me-2" src="@\assets\permissionsicon.svg" alt=""> Permissions</button>
                     <div class="form-check form-switch custom-switch mb-2">
                         <label class="form-check-label text-white p-2" for="flexSwitchCheckLanguage">اللغة العربية</label>
-                        <input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckLanguage" checked>
+                        <input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckLanguage">
                     </div>
                     <div class="form-check form-switch custom-switch my-2">
                         <label class="form-check-label text-white p-2" for="flexSwitchCheckNightMode">Night Mode</label>
