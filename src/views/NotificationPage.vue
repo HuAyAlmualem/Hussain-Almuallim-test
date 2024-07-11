@@ -72,7 +72,7 @@
                 <div class="form-check form-switch custom-switch mb-4">
                         <label class="form-check-label text-white fs-5 ms-3" for="flexSwitchCheckGotFreeMonth">Got Free Month </label>
                         <input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckGotFreeMonth">
-                        <p class="text-white ms-4">if someone use your affiliate code you will get free 1 month just one time </p>
+                        <p class="text-white ms-4">If Someone Use Your Affiliate code You Will Get Free 1 Month Just One Time </p>
 
                 </div>
 
