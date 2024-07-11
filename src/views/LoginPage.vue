@@ -1,8 +1,8 @@
 <template>
   <div class="container-fluid">
     <div class="row ">
-      <div class="col-4 vh-100 git-bg ">
-        <img class="position-relative top-50 start-50 translate-middle" src="@/assets/gittaxlogoText.svg" alt="">
+      <div class="col-4 vh-100 git-bg d-flex justify-content-center align-items-center ">
+        <img class="" src="@/assets/gittaxlogoText.svg" alt="">
       </div>
 
       <div class="col-8">
@@ -30,10 +30,17 @@
 
 <script>
 export default {
+  data(){
+    return{
+      isRTL: false
+    };
+  },
   methods: {
     switchLanguage() {
       const newLocale = this.$i18n.locale === 'ar' ? 'en' : 'ar';
       this.$i18n.locale = newLocale;
+      this.isRTL = !this.isRTL;
+      document.body.classList.toggle('rtl',this.isRTL)
     }
   }
 };
