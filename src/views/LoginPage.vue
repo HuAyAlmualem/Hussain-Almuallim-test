@@ -14,9 +14,9 @@
             <p class="fs-5 fw-bold">{{ $t('login') }}</p>
             <p class="fw-light">{{ $t('dontHaveAccount') }} <a href="#sign up">{{ $t('signUp') }}</a> </p>
             <label for="email">{{ $t('emailAddress') }}</label><br>
-            <input type="password"><br>
-            <label for="password">{{ $t('password') }}</label><br>
             <input type="text"><br>
+            <label for="password">{{ $t('password') }}</label><br>
+            <input type="password"><br>
           </form>
           <a href="#" class="d-flex justify-content-end ">{{ $t('forgetPassword') }}</a><br>
           <button @click="$router.push('Notification')" class="my-3 btn btn-warning">{{ $t('loginButton') }}</button><br>
