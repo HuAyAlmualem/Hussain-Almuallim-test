@@ -57,12 +57,12 @@
                 <div class="form-check form-switch custom-switch mt-5 mb-4">
                     <label class="form-check-label text-white fs-5 ms-3" for="flexSwitchCheckSystemNotification">System Notification </label>
                     <input @click="$router.push('reports')" class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckSystemNotification" >
-                    <p class="text-white ms-4">all notifications sending by GitTax Team .</p>
+                    <p class="text-white ms-4">All Notifications Sending By GitTax Team .</p>
                 </div>
                 <div class="form-check form-switch custom-switch mb-4">
                     <label class="form-check-label text-white fs-5 ms-3" for="flexSwitchCheckBillingCreated">Billing Created </label>
                     <input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckBillingCreated" >
-                    <p class="text-white ms-4">all bills created by source or you will make a successful notification .</p>
+                    <p class="text-white ms-4">All bills created by Source Or You Will Make A Successful Notification .</p>
                 </div>
                 <div class="form-check form-switch custom-switch mb-4">
                         <label class="form-check-label text-white fs-5 ms-3" for="flexSwitchCheckBackupMaker">Backup Maker</label>
